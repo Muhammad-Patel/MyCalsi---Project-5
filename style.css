@@ -109,6 +109,6 @@ button:hover{
         position: relative;
     }
     .cal-grid{
-        margin-top: auto;
+        margin-top: -50px;
     }
 }
