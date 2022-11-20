@@ -85,7 +85,7 @@ button:hover{
     font-size: 2.5rem;
 
 }
-html {
+body,html {
     overflow-y: hidden; }
 @media (max-width:540px){
     .cal-grid{
