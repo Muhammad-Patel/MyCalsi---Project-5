@@ -91,6 +91,7 @@ button:hover{
         min-width: 200px;
         grid-template-columns: repeat(4,80px);
     grid-template-rows: minmax(120px,auto) repeat(5,100px);
+
     }
     button{
         font-size: 1.2rem;
@@ -103,5 +104,11 @@ button:hover{
         color: white;
         font-size: 2rem;
     
+    }
+    body{
+        position: relative;
+    }
+    .cal-grid{
+        margin-top: auto;
     }
 }
