@@ -93,7 +93,7 @@ html {
         min-width: 200px;
         grid-template-columns: repeat(4,80px);
     grid-template-rows: minmax(120px,auto) repeat(5,100px);
-    align-content: flex-start;
+    align-content: center;
 
     }
     button{
